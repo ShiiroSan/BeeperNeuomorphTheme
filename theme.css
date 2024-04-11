@@ -99,6 +99,6 @@ html[theme="dark"]{ /* Handle dark theming */
 .mx_RoomHeader_wrapper,
 ._1fJQLY3NzmLrdWaOTqOBgG ,
 ._1fpjt5o99YQR41xOEzzKWs {
-  background: var(--background);
-  background-color: var(--background-color);
+  background: var(--background) !important;
+  background-color: var(--background-color) !important;
 }
