@@ -43,7 +43,8 @@ html[theme="dark"]{ /* Handle dark theming */
   margin: 0 0 3px 0;
 }
 
-.mx_MainSplit{
+.mx_MainSplit, 
+.mx_HomePage {
     border-left: 1px solid var(--border-color);
 	border-right: 1px solid var(--border-color);
 	border-top: 1px solid var(--border-color);
@@ -97,6 +98,7 @@ html[theme="dark"]{ /* Handle dark theming */
 .bp_Header,
 .mx_MainSplit,
 .mx_RoomHeader_wrapper,
+.mx_HomePage,
 ._1fJQLY3NzmLrdWaOTqOBgG ,
 ._1fpjt5o99YQR41xOEzzKWs {
   background: var(--background) !important;
