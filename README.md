@@ -2,6 +2,8 @@
 Neuomorph theme for Beeper.
 Support Light and Dark mode directly. 
 
+In fact I'm not using it so it might breaks at any time now. 
+
 # TODO
 - [ ] Comments
 - [ ] Support images
